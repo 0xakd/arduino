@@ -5,6 +5,8 @@ int a; //uninitialised variable of int data type. [range = -32768 to 32767]
 
 int b = 10; //int variable containing 10 as value.
 
+long c = 2000000; //similar to integer but with wider range. [range = -2147483648 to 2147483647]
+
 float c = 1.25; //can store decimal values.
 
 double d = 3.14;  //same as float but more precised 
